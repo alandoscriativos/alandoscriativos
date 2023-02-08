@@ -1,17 +1,20 @@
-<div style="display: inline-block; width: 200px;">
+<div style="display: inline-block; width: 130px;">
 <img style="width:250px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6b40dadb-9903-4377-b45b-8fc93cec3d16/d7aa7pj-617b78e6-983a-4b32-8ef7-2c3b34a288f6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZiNDBkYWRiLTk5MDMtNDM3Ny1iNDViLThmYzkzY2VjM2QxNlwvZDdhYTdwai02MTdiNzhlNi05ODNhLTRiMzItOGVmNy0yYzNiMzRhMjg4ZjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Yuvj1lgQ3x1HnDbO0jxHdIV6wHdGXmcBgnu9cT7taeo"/>
 </div>
 
 ###  Olá! Eu sou o Alan Silva 👋
+<div style="display: inline-block width: 1000px" >
 
-![Alan Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=alandoscriativos&show_icons=true&theme=dracula)
+![Alan Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=alandoscriativos&show_icons=true&theme=dracula&amp;langs_count=10&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=ff8da4&amp;icon_color=eafaff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dracula&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=ff8da4&amp;icon_color=eafaff)](https://github.com/alandoscriativos/github-readme-stats)
 
+</div>
 <div style="display: inline-block; width: 100%;"><br/>
-    <h1 style="font-size: 20px;">Rede sociais</h1>
+    <h1 style="font-size: 20px;">Redes socias</h1>
 </div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-silva-442530204/)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alandoscriativos/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-silva-442530204/)
 
 <div>
 <div><br/>
