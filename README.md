@@ -1,15 +1,17 @@
-### Olá! Eu sou o Alan Silva 👋
-
-<div style="display: inline-block; width: 100%;"><br/>
-    <img style="width: 300px;" src="https://i.pinimg.com/originals/ac/de/81/acde8128bdd5c9ad4abac57ba75485f2.gif"/>
-    <h1 style="font-size: 20px;">Redes socias</h1>
+<div style="display: inline-block; width: 200px;">
+<img style="width:250px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6b40dadb-9903-4377-b45b-8fc93cec3d16/d7aa7pj-617b78e6-983a-4b32-8ef7-2c3b34a288f6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZiNDBkYWRiLTk5MDMtNDM3Ny1iNDViLThmYzkzY2VjM2QxNlwvZDdhYTdwai02MTdiNzhlNi05ODNhLTRiMzItOGVmNy0yYzNiMzRhMjg4ZjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Yuvj1lgQ3x1HnDbO0jxHdIV6wHdGXmcBgnu9cT7taeo"/>
 </div>
 
-[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alandoscriativos/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-silva-442530204/)
+###  Olá! Eu sou o Alan Silva 👋
 
 ![Alan Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=alandoscriativos&show_icons=true&theme=dracula)
 
+<div style="display: inline-block; width: 100%;"><br/>
+    <h1 style="font-size: 20px;">Rede sociais</h1>
+</div>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-silva-442530204/)
+[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alandoscriativos/)
 
 <div>
 <div><br/>
@@ -26,9 +28,6 @@
      <img style="display: inline-block; margin-right: 5px"src="https://camo.githubusercontent.com/c07dda27d234641c820e8c1f19d8c7f96b80dbc0d056121d0d7df82442715762/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"/>
       <img style="display: inline-block; margin-right: 5px"src="https://camo.githubusercontent.com/d6a84c274a5596e2bae9a20d90026f8d06dfd7f55d9074ce93f458b7a62d7664/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465"/>
       <img style="display: inline-block; margin-right: 5px"src="https://camo.githubusercontent.com/a086db88ad9910244211d76f944f9ce294aaeb416517a39dc1fe67e8294c2bc7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d3335343935453f266c6f676f3d767565646f746a73266c6f676f436f6c6f723d344643303844"/>
-</div>
-<div style="display: inline-block; width: 200px; position: absolute; right: -30px; top: -10px; margin-left: 10px;">
-<img style="display:inline-block; width:160px;" src="https://camo.githubusercontent.com/b29b791fbe498629b8aa95255a2d61437d475c4a602415c4a1b166d5ad1826cf/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f62612f63392f38316261633935336137373665613163326232303535393764373665313133632e676966"/>
 </div>
 </div>
 </div>
