@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Alan Silva 👋
 
 <div style="display: inline-block; width: 100%;"><br/>
-    <img style="width: 120px;" src="https://emojitool.com/img/emojidex/1.0.34/man-3423.png"/>
+    <img style="width: 300px;" src="https://i.pinimg.com/originals/ac/de/81/acde8128bdd5c9ad4abac57ba75485f2.gif"/>
     <h1 style="font-size: 20px;">Redes socias</h1>
 </div>
 
@@ -13,8 +13,7 @@
 
 <div>
 <div><br/>
-    <img style="width:30px; display: inline-block; margin-right: 5px; "src="https://camo.githubusercontent.com/f5128dd221dc39e229baac065fd162e0d37eba01cc5c620986868ec443f0eb63/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f6c6f676f70656469612f696d616765732f322f32392f4d6963726f736f66745f5061696e745f4c6f676f5f253238313939382d323030312532395f253238416c7465726e61746976652532392e706e672f7265766973696f6e2f6c61746573742f7363616c652d746f2d77696474682d646f776e2f3235303f63623d3230323030383232323332363237"/> 
-    <h1 style="display: inline-block; border: none;">Front-End</h1>
+    <img style="width:30px; margin-right: 5px; text-decoration: none" src="https://camo.githubusercontent.com/f5128dd221dc39e229baac065fd162e0d37eba01cc5c620986868ec443f0eb63/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f6c6f676f70656469612f696d616765732f322f32392f4d6963726f736f66745f5061696e745f4c6f676f5f253238313939382d323030312532395f253238416c7465726e61746976652532392e706e672f7265766973696f6e2f6c61746573742f7363616c652d746f2d77696474682d646f776e2f3235303f63623d3230323030383232323332363237"> <a style="text-decoration:none; font-size: 20px;">Front-End</a>
     <div style="display: flex; position: relative; width:100%">
 <div style="display: inline-block; width: 600px">
     <img style="display: inline-block; margin-right: 5px"src="https://camo.githubusercontent.com/a45e830af871724261e20c06728e743099389d5db1a5614518eab84660e488f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/> 
@@ -37,8 +36,7 @@
 <br/>
 
 <div><br/>
-    <img style="width:30px; display: inline-block; margin-right: 5px; "src="https://em-content.zobj.net/thumbs/120/facebook/327/paintbrush_1f58c-fe0f.png"/> 
-    <h1 style="display: inline-block; border: none;">Design</h1>
+    <img style="width:30px; margin-right: 5px; text-decoration: none" src="https://em-content.zobj.net/thumbs/120/facebook/327/paintbrush_1f58c-fe0f.png"> <a style="text-decoration:none; font-size: 20px;">Design</a>
 </div>
 <div style="display: flex">
 <div style="display: inline-block; width: 600px">
@@ -49,8 +47,7 @@
 </div>        
 
 <div><br/>
-    <img style="width:30px; display: inline-block; margin-right: 5px; "src="https://camo.githubusercontent.com/79f1160345ad6e162555346902e85721962ace244babfb8323b5c601da251d2f/68747470733a2f2f77696e393869636f6e732e616c65786d6575622e636f6d2f69636f6e732f706e672f6d735f646f732d312e706e67"/> 
-    <h1 style="display: inline-block; border: none;">OS</h1>
+    <img style="width:30px; margin-right: 5px; text-decoration: none" src="https://camo.githubusercontent.com/79f1160345ad6e162555346902e85721962ace244babfb8323b5c601da251d2f/68747470733a2f2f77696e393869636f6e732e616c65786d6575622e636f6d2f69636f6e732f706e672f6d735f646f732d312e706e67"> <a style="text-decoration:none; font-size: 20px;">OS</a>
 </div>
 <div style="display: flex">
 <div style="display: inline-block; width: 600px">
