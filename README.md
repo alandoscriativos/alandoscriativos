@@ -6,19 +6,11 @@
 <div style="display: inline-block width: 1000px" >
 
 <div>
-  <a href="https://github.com/EdiGabriel22">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=edigabriel22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edigabriel22&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/alandoscriativos">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alandoscriativos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandoscriativos&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
-  ##
- 
-<div> 
-  <a href = "mailto:edigabrielcontato@hotmail.com" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="blank"></a>
-  <a href="https://www.linkedin.com/in/edi-gabriel/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
- 
-</div>
-
-</div>
+  
 <div style="display: inline-block; width: 100%;"><br/>
     <h1 style="font-size: 20px;">Redes socias</h1>
 </div>
