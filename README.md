@@ -6,7 +6,7 @@
 <div style="display: inline-block width: 1000px" >
 
 ![Alan Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=alandoscriativos&show_icons=true&theme=dracula&amp;langs_count=10&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=ff8da4&amp;icon_color=eafaff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dracula&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=ff8da4&amp;icon_color=eafaff)](https://github.com/alandoscriativos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alandoscriativos&show_icons=true&theme=dracula&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=ff8da4&amp;icon_color=eafaff)](https://github.com/alandoscriativos/github-readme-stats)
 
 </div>
 <div style="display: inline-block; width: 100%;"><br/>
